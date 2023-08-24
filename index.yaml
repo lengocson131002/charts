@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  mynginx:
+  - apiVersion: v2
+    appVersion: "1.14"
+    created: "2023-08-24T22:57:15.6311583+07:00"
+    description: A Helm chart for Nginx Hello world project
+    digest: 63d5c55f6988c725e3b6de5c45c78b425a3a4f40ad79a64b098371c3a428c295
+    name: mynginx
+    type: application
+    urls:
+    - public/mynginx-0.1.0.tgz
+    version: 0.1.0
+  mynginx2:
+  - apiVersion: v2
+    appVersion: "1.14"
+    created: "2023-08-24T22:57:15.6321582+07:00"
+    description: A Helm chart for Nginx Hello world project
+    digest: 88132f3cb3dc3d16e11e7bfd62525e28a98327375d467d495d5ffe5b9bbfef19
+    name: mynginx2
+    type: application
+    urls:
+    - public/mynginx2-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-08-24T22:57:15.6311583+07:00"
